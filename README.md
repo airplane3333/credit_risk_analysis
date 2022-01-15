@@ -29,10 +29,10 @@ The accuracy = 0.637
 The precision of this model for high risk is 0.01 however it was 100% at getting the 
 correct low risk applicants
 
-![Random Over Sampler](/images/bac_RandomOverSampler.png)
+![Random Over Sampler](/images/bac_randomOverSampler.PNG)
 
 ### SMOTE Oversampling
-The Accuracy = 630
+The Accuracy = 0.630
 Similar results as the Random Over Sampler
 
 ![SMOTE](/images/smote.png)
@@ -57,7 +57,7 @@ The recall percentages are a little better than Cluster Centroids and the accura
 ## The next two are Ensemble Learners algorithms
 ---
 ### Balanced Random Forest Classifier
-Accuracy = .795
+Accuracy = 0.795
 Using this ML algorithms has a much higher accuracy and now seeing that recall are better 
 than the other results.  This predicted fewer false negatives.
 
