@@ -29,7 +29,7 @@ The accuracy = 0.637
 The precision of this model for high risk is 0.01 however it was 100% at getting the 
 correct low risk applicants
 
-![Random Over Sampler](/images/bca_RandomOverSampler.png)
+![Random Over Sampler](/images/bac_RandomOverSampler.png)
 
 ### SMOTE Oversampling
 The Accuracy = 630
